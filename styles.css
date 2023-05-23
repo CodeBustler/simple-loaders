@@ -21,6 +21,7 @@ body {
   height: 100px;
   border: 15px solid rgb(231, 231, 231);
   animation: rotate 2s linear infinite;
+  /* To center dot */
   display: grid;
   place-items: center;
 }
