@@ -26,13 +26,6 @@ body {
   place-items: center;
 }
 
-/* DOT */
-.loader-square span {
-  width: 10px;
-  height: 10px;
-  background-color: #f1c40f;
-  border-radius: 50%;
-}
 
 @keyframes rotate {
   0% {
